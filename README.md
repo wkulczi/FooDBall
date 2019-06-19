@@ -1,13 +1,14 @@
 # FooDBall
 My summer database project :innocent:
 
-## Constraints:
+<!--- ## Constraints:
 * 
 *
 *
 *
 *
 *
+---!>
 
 
 Report file for the database written in Polish (for now) placed in Report folder :file_folder:
