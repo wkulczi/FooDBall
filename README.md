@@ -19,4 +19,4 @@ Report file for the database written in Polish (for now) placed in Report folder
 * Python REST API/GUI for managing the database
 
 
-Alpha project sent in 19 Jun 2019.
+Alpha version project sent in 19 Jun 2019.
