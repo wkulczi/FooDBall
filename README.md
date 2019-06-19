@@ -15,7 +15,7 @@ Report file for the database written in Polish (for now) placed in Report folder
 ###### Todo:
 * Macros
 * Python generator for all the data (webscraped data, maybe?)
-* Python REST API or GUI for managing the database
+* Python REST API/GUI for managing the database
 
 
 Alpha project sent in 19 Jun 2019.
